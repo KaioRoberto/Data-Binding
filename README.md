@@ -1,27 +1,8 @@
-# DataBinding
+Alunos:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Kaio Roberto Araújo de Lima - 01529937
+Nelson Eduardo Lemos de Melo Filho - 01543385
+Rhauana Flórido Lima - 01508064
+Vinicius Gabriel Gomes do Nascimento - 01534963
+Matheus Roberto Souza de Siqueira Correa de Oliveira - 01535637
+João Pedro Rodrigues Melo - 01555197
