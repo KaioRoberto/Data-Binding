@@ -1,0 +1,19 @@
+<p>
+    {{ saudacao }}
+  </p>
+  <p>
+    <a [href]="linkAncora">Clique aqui!</a>
+  </p>
+  <p (click)="changeColor()" [style.background-color]="backgroundColor" [style.color]="fontColor" style="cursor: pointer">Clique para mudar as cores</p>
+  <select [(ngModel)]="selectedOption">
+    <option value="option1">Opção 1</option>
+    <option value="option2">Opção 2</option>
+    <option value="option3">Opção 3</option>
+    <option value="option4">Opção 4</option>
+  </select>
+  
+  <div *ngIf="selectedOption === 'option1'">Texto 1</div>
+  <div *ngIf="selectedOption === 'option2'">Texto 2</div>
+  <div *ngIf="selectedOption === 'option3'">Texto 3</div>
+  <div *ngIf="selectedOption === 'option4'">Texto 4</div>
+  
